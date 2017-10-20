@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">UsingFraments</string>
+    <string name="action_settings">Settings</string>
+    <string name="Comodities">MyFragments_Test</string>
+    <string name="sales">sales</string>
+    <string-array name="CentralMarket">
+        <item>FRUITS</item>
+        <item>VEGETABLES</item>
+        <item>MEAT</item>
+        <item>CLOTHES</item>
+        <item>SHOES</item>
+    </string-array>
+    <string-array name="Fruits">
+        <item>APPLES</item>
+        <item>MANGOES</item>
+        <item>PASSION</item>
+        <item>ORANGE</item>
+        <item>VITROOT</item>
+        <item>WATERMELON</item>
+    </string-array>
+    <string-array name="Vegetables">
+        <item>TOMATOES</item>
+        <item>GREENS</item>
+        <item>CABBAGES</item>
+        <item>ONIONS</item>
+        <item>FRENCHBEANS</item>
+        <item>CARROTS</item>
+    </string-array>
+    <string-array name="Meat_Fresh">
+        <item>CHICKEN</item>
+        <item>FISH</item>
+        <item>PORK</item>
+        <item>GOAT'SMEAT</item>
+        <item>BEEF</item>
+        <item>MUTTON</item>
+    </string-array>
+    <string-array name="Clothes">
+        <item>GENT'SWEAR</item>
+        <item>WOMEN'SWEAR</item>
+        <item>KID'S_WEAR</item>
+        <item>CASUAL_WEAR</item>
+        <item>OFFICE_WEAR</item>
+        <item>PARTYWEAR</item>
+    </string-array>
+    <string-array name="shoes">
+        <item>GET'S_SHOES</item>
+        <item>WOMEN'_SHOES</item>
+        <item>KID'S_SHOES</item>
+        <item>OPEN_SHOES</item>
+        <item>CLOSED_SHOES</item>
+        <item>SECONDHAND_SHES</item>
+    </string-array>
+</resources>
